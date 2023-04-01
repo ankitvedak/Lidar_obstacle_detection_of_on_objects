@@ -22,7 +22,7 @@
 
    ```shell
    sudo apt install libpcl-dev
-   cd ~/Lidar_obstacle_detection_of_on_objects.git
+   cd ~/Lidar_obstacle_detection_of_on_objects
    mkdir build && cd build
    cmake ..
    make
