@@ -30,5 +30,5 @@
    ./environment
    ```
 
-   This should install the latest version of PCL. You should be able to do all the classroom exercises and project with this setup.
+  
    
