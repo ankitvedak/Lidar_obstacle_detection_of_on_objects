@@ -1,6 +1,7 @@
 # LIDAR object detection fro on road objects
 
 <img src="media/ObstacleDetectionFPS.gif" width="700" height="400" />
+<img src="media/lidar.gif" width="700" height="400" />
 
 
 **Note** The [[CMakeLists.txt](https://github.com/udacity/SFND_Lidar_Obstacle_Detection/blob/master/CMakeLists.txt)] file provided in this repo can be used locally if you have the same package versions as mentioned above. If you want to run this project locally (outside the Udacity workspace), please follow the steps under the **Local Installation** section.
