@@ -1,4 +1,4 @@
-# LIDAR object detection fro on road objects
+# LIDAR object detection for on road objects
 
 <img src="media/ObstacleDetectionFPS.gif" width="700" height="400" />
 <img src="media/lidar.gif" width="700" height="400" />
